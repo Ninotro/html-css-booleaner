@@ -76,9 +76,9 @@ h1 {
     padding-right: 50px;
     width: 25%;
    }
-Inizio tabella
+
    #table1 {
-    background-color: cornflowerblue;
+    background-color: blue;
     color: white;
    }
    .table2 {
@@ -100,8 +100,24 @@ Inizio tabella
    }
    #foto4 {
     background-image: url(../img/monitor.jpg);
-    background-size: 10%;
+    
     background-repeat: no-repeat;
-    padding-bottom: 20%;
-    padding-right: 30%;
+    padding-bottom: 200px;
+    padding-right: 300px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+    margin-bottom: 0%;
+    
    }
+   #foto5 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+    padding-right: 300px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+    margin-top: 0
+   }
+   
