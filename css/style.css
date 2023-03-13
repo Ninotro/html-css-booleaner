@@ -65,4 +65,23 @@ h1 {
    #unordered {
     margin-top: 60px;
     margin-bottom: 60px;
+   
+   }
+
+   #tabella {
+    height: 200px;
+   }
+   .left {
+    text-align: left;
+    padding-right: 50px;
+    width: 25%;
+   }
+
+   #table1 {
+    background-color: cornflowerblue;
+    color: white;
+   }
+   .table2 {
+    background-color: aqua;
+    color:black
    }
