@@ -67,7 +67,7 @@ h1 {
     margin-bottom: 60px;
    
    }
-
+   /* Inizio tabella */
    #tabella {
     height: 200px;
    }
@@ -76,7 +76,7 @@ h1 {
     padding-right: 50px;
     width: 25%;
    }
-
+Inizio tabella
    #table1 {
     background-color: cornflowerblue;
     color: white;
@@ -89,4 +89,19 @@ h1 {
    #paragraph3 {
     padding-top: 30px;
     padding-bottom: 30px;
+   }
+   /* Inizio footer */
+   footer {width: 100%;}
+
+   #footer {
+    font-size: 30px;
+    color: grey;
+    font-weight: bold;
+   }
+   #foto4 {
+    background-image: url(../img/monitor.jpg);
+    background-size: 10%;
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+    padding-right: 30%;
    }
