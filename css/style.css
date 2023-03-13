@@ -1,6 +1,10 @@
 /* Regole principali */
 * {
-    font-family:Arial, Helvetica, sans-serif
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+
+    
 }
 /* Creazione Header */
 header {
@@ -36,4 +40,29 @@ h1 {
     color: grey;
     font-weight: 400;
     padding-top: 5px;
+   }
+   /* Start immage + description */
+
+   
+   
+   #immage1 {
+    width: 49%;
+    height: 600px;
+ 
+   }
+   #immage2 {
+    width: 49%;
+    height: 600px;
+   }
+   .Description {
+    font-size: 20px;
+    font-weight:bold;
+   }
+   .underline {
+    background-color: yellow;
+   }
+
+   #unordered {
+    margin-top: 60px;
+    margin-bottom: 60px;
    }
