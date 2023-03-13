@@ -1,0 +1,39 @@
+/* Regole principali */
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+/* Creazione Header */
+header {
+     background-image:url(../img/pattern.png) ;
+     background-color:steelblue;
+     width: 100%; 
+    }
+#logo {
+    padding-top: 90px;
+    width: 10%;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+h1 {
+    font-size: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
+#sottoscritta {
+    margin-top: 0;
+    font-size: 30px;
+    color: grey;
+    font-weight: 600;
+   }
+   #blue {
+    color: dodgerblue;
+   } 
+
+   #data {
+    font-size: 25px; 
+    color: grey;
+    font-weight: 400;
+    padding-top: 5px;
+   }
